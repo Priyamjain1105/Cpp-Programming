@@ -63,7 +63,7 @@ b. Through Iterator
    ```
 
 ## 3. Working on Vector through functions
-### i. Delection in vector
+### 1. Delection in vector
 `v.erase(v.begin()+1);`  
 `v.erase(v.begin()+2,v.begin()+4);`
 
