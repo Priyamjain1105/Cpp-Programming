@@ -18,3 +18,17 @@ Defining `vector<int> v;` or `vector<int> v(5);`
 Old vector: `vector<int> v(5,20);`  
 New Vector with copy of old: `vector<int> v2(v);`
 
+## Accessing Elements in a Vector
+### 1. Same as Array
+V [1] = 5
+### 2. Iterators
+Iterator points to the memory address, similar to pointers.
+Syntax: 
+```
+vector<int>::iterator it = v.begin();
+it++;
+cout<< *(it) << endl;
+```
+
+
+
