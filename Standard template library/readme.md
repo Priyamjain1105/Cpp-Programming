@@ -23,5 +23,25 @@ vector< map< int, set<int> > >
 ```
 
 ## Iterators
+  Points to the memory address of the containers  
+  for Beginning: `begin()`  
+  for End:`end()`  
+  loop: `vector <int> :: iterator it;`  
+  
 ## Algorithms
+Predefined algorithms that are used, written in most optimised way.
+```
+upper_bound
+lower_bound
+sort(comparator)
+max_element
+min_element
+accumulator (sum of array)
+reverse
+count
+find
+```
+
 ## Functions
+### Functors
+classes that can ber used as function
