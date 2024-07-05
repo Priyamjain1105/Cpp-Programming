@@ -67,3 +67,12 @@ b. Through Iterator
 `v.erase(v.begin()+1);`  
 `v.erase(v.begin()+2,v.begin()+4);`
 
+### 2. Inserting in vector
+`v.insert( start, instances, variable)`
+
+`v.insert(v.begin(),300);`   v = {300,100,100}  
+`v.insert( v.begin()+1, 2, 10);` v = {300, 10, 10, 100, 100}
+
+
+
+
