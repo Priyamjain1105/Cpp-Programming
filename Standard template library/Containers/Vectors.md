@@ -7,7 +7,7 @@ Library `#include <vector>`
 Defining `vector<int> v;` or `vector<int> v(5);`
 
 ## Adding Element to Vectors
-##  1. General 
+### 1. General 
 `v.push_back(2);` or `v.emplace_back(2);`
 ### 2. Inserting the Element to the vector of Pairs
 `v.push_back({1,2});` or `v.emplace_back(1,2);`
