@@ -70,8 +70,16 @@ b. Through Iterator
 ### 2. Inserting in vector
 `v.insert( start, instances, variable)`
 
+EXAMPLE:- 
 `v.insert(v.begin(),300);`   v = {300,100,100}  
 `v.insert( v.begin()+1, 2, 10);` v = {300, 10, 10, 100, 100}
+
+### 3. Extending one vector into another vector  
+
+`v.insert(v.begin(), copied_vector.begin(), copied_vector.end())`
+### 4. Getting the size of Vector
+`v.size();`
+
 
 
 
