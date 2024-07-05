@@ -79,6 +79,13 @@ EXAMPLE:-
 `v.insert(v.begin(), copied_vector.begin(), copied_vector.end())`
 ### 4. Getting the size of Vector
 `v.size();`
+### 5. Pop the element
+`v.pop_back();` will pop the last element
+### 6. Swapping Two Vector
+`v1.swap(v2);`
+### 7. Clearing or Empty the Vector
+`v.clear()`:  will clear the entire vector  
+`v.empty()`:  will check weather vector is empty
 
 
 
