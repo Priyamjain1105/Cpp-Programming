@@ -18,8 +18,6 @@ Defining `vector<int> v;` or `vector<int> v(5);`
 Old vector: `vector<int> v(5,20);`  
 New Vector with copy of old: `vector<int> v2(v);`
 
-
-
       
 ## 2. Accessing Elements in a Vector
 ### i. Same as Array
@@ -64,4 +62,8 @@ b. Through Iterator
    }
    ```
 
+## 3. Working on Vector through functions
+### i. Delection in vector
+`v.erase(v.begin()+1);`  
+`v.erase(v.begin()+2,v.begin()+4);`
 
