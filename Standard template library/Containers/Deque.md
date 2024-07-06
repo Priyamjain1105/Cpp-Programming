@@ -1,4 +1,4 @@
-# Deque
+# Deque (Double ended Queue)
 Similar to Vector and List, different fearture is front pop, dq.back(), dq.front()
 
 ## Defination
