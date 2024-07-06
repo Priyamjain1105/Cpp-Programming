@@ -12,6 +12,6 @@ The element with larger value (lexographically) will stay on the top
 The elements with min value (lexographically) will stay on the top
 ### Defination 
 `priority_queue< int,vector<int>,greater<int> >pq;`
-**### Example 
+### Example 
 {2,5,8,10}  
 `cout<<pq.top()` will print `2`
