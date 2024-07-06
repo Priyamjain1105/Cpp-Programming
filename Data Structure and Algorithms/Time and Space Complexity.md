@@ -36,3 +36,9 @@ In above example: 5 x 3 = 15 => `O(15)`
 Example: `O( N x 10^15 + N x 10^10 + 8)`  
 Here Constant `8` has no value and `N x 10^10` has much less value compared to **N x 10^15** so the answer will be: `O(N x 10^15)`
 
+## Types of Cases and Scenerios
+1. **Avg (π):** Avg operation required to get to solution
+2. **Best (θ):** Min operation executed
+3. **Worst (O):** Max operation executed
+
+
