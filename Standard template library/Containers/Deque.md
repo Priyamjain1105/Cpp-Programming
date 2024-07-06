@@ -13,7 +13,7 @@ Pop Operation
 `dq.pop_front();`  
 
 Front and Back reference  
-`dq.front();`  : is the reference of deque front element, which can also be changed with `dq.front = 5;`
+`dq.front();`  : is the reference of deque front element, which can also be changed with `dq.front = 5;`  
 `dq.back();`   : is the reference of deque last element, which can also be chaged with `dq.back = 1;`  
 
 ### Other Operation's
