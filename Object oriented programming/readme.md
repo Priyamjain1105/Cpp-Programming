@@ -12,3 +12,14 @@ Binding the data and Function together and operate on them
     Function Overloading  
 
 6. **Inheritance:** derive properties and characterstics from another class is called inheritance
+
+## Construtor and Destructor
+Member function named as class, called when obj is created or destroyed.
+
+## Acess Modifier
+1. Public
+2. Private
+3. Protected
+   
+
+
