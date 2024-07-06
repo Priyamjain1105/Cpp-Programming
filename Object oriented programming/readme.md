@@ -52,10 +52,34 @@ inline int example()
 ```
 ## Static Members in C++
 ### Static Variable 
-1.**In Function:** Avariable declared as static, space for it get allocated for the life time of the program, even if the function is called multiple time the space for it is allocated once
-2. **In Class:** defined outside and declared inside the class, it belongs class as whole and not just obj.
+1. **In Function:** Avariable declared as static, space for it get allocated for the life time of the program, even if the function is called multiple time the space for it is allocated once.  
+2. **In Class:** initialised outside and declared inside the class, it belongs class as whole and not just obj.
+```
+class Account
+{
+  private:
+      int balance; 
+      static float roi;    //Declared inside the class
+  public:
+      void setBalance(int b)
+           {
+             balance = b;
+           }
+
+}
+
+float Account:: roi = 3.5;  //Initialised outside the class
+void main()
+{
+ Account a1
+}
+```
+
 ### Static Funtion in Class
 Static members functions are allowed to use only static data member or other static member function 
+
+### Static Object
+Object can also be declared as static `static Account a1;`
 
    
 
