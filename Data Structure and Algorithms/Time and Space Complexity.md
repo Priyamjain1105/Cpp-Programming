@@ -28,3 +28,11 @@ STEP 15: Raj
 Formula:  `No of loop its running x Steps per loop`  
 In above example: 5 x 3 = 15 => `O(15)`  
 
+## NOTE
+1. Time Complexity is measured in worst case seneraio
+2. Avoid Constants    (With large input size constants have no value)
+3. Avoid Lower Values (The values which does not have much significance)
+
+Example: `O( N x 10^15 + N x 10^10 + 8)`  
+Here Constant `8` has no value and `N x 10^10` has much less value compared to **N x 10^15** so the answer will be: `O(N x 10^15)`
+
