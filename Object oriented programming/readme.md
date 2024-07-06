@@ -7,8 +7,8 @@ Binding the data and Function together and operate on them
               memory get allocated when object of class is created.
 3. **Encapsulation**: Binding the data and functions that manipulate them
 4. **Abstraction**: Displaying only essential information and hinding the details.
-5. **Polymorphism**: Ability of a message to be displaced in more than one form
-                     Operator Overloading
-                     Function Overloading
+5. **Polymorphism**: Ability of a message to be displaced in more than one form  
+    Operator Overloading  
+    Function Overloading  
 
-Inheritance
+6. **Inheritance:** derive properties and characterstics from another class is called inheritance
