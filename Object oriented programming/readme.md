@@ -37,6 +37,11 @@ A class declared inside a function, (loacl to that function)
 5. C doesnt have function and operator overloading, C++ supports both of them
 6. C does'nt have exceptional handeling, C++ has it.
 
+## Virtual Function and Runtime Polymorphism
+**Virtual Function:** virtual keyword is used in a base class to indicate that a function is meant to be overridden in derived classes
+
+**Runtime Polymorphism/dynamic polymorphism:** used with virtual function, allows function to behave differently based on the object that invokes it.
+
 ## Inline Function
 it is a request not command, code is inserted to the line where it is called.
 ```
@@ -45,7 +50,12 @@ inline int example()
          //code
        }
 ```
-
+## Static Members in C++
+### Static Variable 
+1.**In Function:** Avariable declared as static, space for it get allocated for the life time of the program, even if the function is called multiple time the space for it is allocated once
+2. **In Class:** defined outside and declared inside the class, it belongs class as whole and not just obj.
+### Static Funtion in Class
+Static members functions are allowed to use only static data member or other static member function 
 
    
 
