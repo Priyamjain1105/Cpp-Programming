@@ -26,3 +26,10 @@ Index:         0  1  2  3
 ```
 Fetching is just printing the value of required index.  
 The value stored in that particular index, represnts the no of times values have been repeated
+
+
+## Max Size of Array Possible
+**inside main:** `10^7`  
+**Globally :** `10^8`
+
+
