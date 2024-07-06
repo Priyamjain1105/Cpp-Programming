@@ -7,5 +7,6 @@ When Numerous function calls are waiting to be completely executed, they start t
 ## Basic Condition/ Solution of stack overflow
 Use conditional statement to terminate the recursion.
 ## Recusion Tree ( Representation of Recusion)
-![image](https://github.com/Priyamjain1105/Cpp-Programming/assets/139670144/45c2a894-488d-428b-96af-8dbb8b80c0f4)
+![image](https://github.com/Priyamjain1105/Cpp-Programming/assets/139670144/7444026a-376d-4ac6-872a-2e1b1aa5cd2d)
+
 
