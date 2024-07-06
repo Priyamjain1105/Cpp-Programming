@@ -1,3 +1,3 @@
 ## Containers
-[Vector](Containers/Vectors.md)
+[Vector](Vectors.md)
 
