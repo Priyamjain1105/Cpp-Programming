@@ -73,7 +73,6 @@ b. Through Iterator
 EXAMPLE:-  
 `v.insert(v.begin(),300);`   v = {300,100,100}  
 `v.insert( v.begin()+1, 2, 10);` v = {300, 10, 10, 100, 100}  
-`v.insert( v.begin, {1,2,3);` v = {1,2,3,10,10,100,100}
 
 ### 3. Extending one vector into another vector  
 
