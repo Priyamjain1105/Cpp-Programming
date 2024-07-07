@@ -68,3 +68,4 @@ int main()
         }
     }
 ```
+ALL THREE INSERTION,BUBBLE and SELECTION all time complexity is O(N^2)
