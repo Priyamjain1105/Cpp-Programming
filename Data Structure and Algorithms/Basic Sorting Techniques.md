@@ -24,3 +24,47 @@ int main()
     }
 }
 ```
+
+## Bubble Sort
+```
+int main()
+{
+    int t;
+    int arr[5] = {5, 2, 4, 1, 0};
+    int n = 5;
+    int count = 1;
+    while (count < n)
+    {
+        for (int i = 0; i < n; i++)
+        {
+            if (arr[i] > arr[i + 1])
+            {
+                t = arr[i];
+                arr[i] = arr[i + 1];
+                arr[i + 1] = t;
+            }
+
+        }
+        count++;
+    }
+}
+```
+## Insetion Sort
+```
+int main()
+{
+    int arr[5] = {2, 5, 1, 6, 3};
+    int n = 5;
+    int t;
+    for (int i = 1; i < n; i++)
+    {
+        int j = i;
+        while (arr[j - 1] > arr[j] && j > 0)
+        {
+            t = arr[j];
+            arr[j] = arr[j - 1];
+            arr[j - 1] = t;
+            j--;
+        }
+    }
+```
