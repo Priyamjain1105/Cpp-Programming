@@ -49,7 +49,7 @@ int main()
     }
 }
 ```
-## Insetion Sort
+## Insertion Sort
 ```
 int main()
 {
