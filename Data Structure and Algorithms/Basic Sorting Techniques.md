@@ -68,4 +68,7 @@ int main()
         }
     }
 ```
-ALL THREE INSERTION,BUBBLE and SELECTION all time complexity is O(N^2)
+ALL THREE INSERTION,BUBBLE and SELECTION all time complexity is O(N^2) 
+
+## Merge Sort
+`[3,1,2,4,1,5,2,6,4]` 
