@@ -7,8 +7,8 @@ Binding the data and Function together and operate on them
    3. **Encapsulation**: Binding the data and functions that manipulate them
    4. **Abstraction**: Displaying only essential information and hinding the details.
    5. **Polymorphism**: Ability of a message to be displaced in more than one form  
-         - Operator Overloading  
-         = Function Overloading  
+                       - Operator Overloading  
+                       - Function Overloading  
    6. **Inheritance:** derive properties and characterstics from another class is called inheritance
 
 ## Construtor and Destructor
@@ -37,9 +37,9 @@ A class declared inside a function, (loacl to that function)
 6. C does'nt have exceptional handeling, C++ has it.
 
 ## Virtual Function and Runtime Polymorphism
-**Virtual Function:** virtual keyword is used in a base class to indicate that a function is meant to be overridden in derived classes
+   - **Virtual Function:** virtual keyword is used in a base class to indicate that a function is meant to be overridden in derived classes
 
-**Runtime Polymorphism/dynamic polymorphism:** used with virtual function, allows function to behave differently based on the object that invokes it.
+   - **Runtime Polymorphism/dynamic polymorphism:** used with virtual function, allows function to behave differently based on the object that invokes it.
 
 ## Inline Function
 it is a request not command, code is inserted to the line where it is called.
@@ -50,9 +50,9 @@ inline int example()
        }
 ```
 ## Static Members in C++
-### Static Variable 
-1. **In Function:** Avariable declared as static, space for it get allocated for the life time of the program, even if the function is called multiple time the space for it is allocated once.  
-2. **In Class:** initialised outside and declared inside the class, it belongs class as whole and not just obj.
+- ### Static Variable 
+   - 1. **In Function:** Avariable declared as static, space for it get allocated for the life time of the program, even if the function is called multiple time the space for it is allocated once.  
+   - 2. **In Class:** initialised outside and declared inside the class, it belongs class as whole and not just obj.
 ```cpp
 class Account
 {
@@ -74,11 +74,11 @@ void main()
 }
 ```
 
-### Static Funtion in Class
-Static members functions are allowed to use only static data member or other static member function 
+- ### Static Funtion in Class
+  Static members functions are allowed to use only static data member or other static member function 
 
-### Static Object
-Object can also be declared as static `static Account a1;`
+- ### Static Object
+  Object can also be declared as static `static Account a1;`
 
    
 
