@@ -2,16 +2,14 @@
 Binding the data and Function together and operate on them
 
 ## Type of Object Oriented Programming
-  - 1. **Class**: It is a user defined datatype has its own (Data Member and Member Function), Which can be accessed and used by creating an instance of that class.
-  - 2. **Object**:instance of class,  
-                  memory get allocated when object of class is created.
-  - 3. **Encapsulation**: Binding the data and functions that manipulate them
-  - 4. **Abstraction**: Displaying only essential information and hinding the details.
-  - 5. **Polymorphism**: Ability of a message to be displaced in more than one form  
-        Operator Overloading  
-        Function Overloading  
-
-   - 6. **Inheritance:** derive properties and characterstics from another class is called inheritance
+   1. **Class**: It is a user defined datatype has its own (Data Member and Member Function), Which can be accessed and used by creating an instance of that class.
+   2. **Object**:instance of class, memory get allocated when object of class is created.
+   3. **Encapsulation**: Binding the data and functions that manipulate them
+   4. **Abstraction**: Displaying only essential information and hinding the details.
+   5. **Polymorphism**: Ability of a message to be displaced in more than one form  
+         - Operator Overloading  
+         = Function Overloading  
+   6. **Inheritance:** derive properties and characterstics from another class is called inheritance
 
 ## Construtor and Destructor
 Member function named as class, called when obj is created or destroyed.
@@ -22,9 +20,10 @@ Member function named as class, called when obj is created or destroyed.
 3. Protected
 
 ## Structure VS Class
-_Class_: Members and base classes are **private by default**.  
-_Structure_: Members and base classes are **public by default**.  
-Note: Structure: Collection of dissimilar data
+   - _Class_: Members and base classes are **private by default**.  
+   - _Structure_: Members and base classes are **public by default**.
+     
+   Note: Structure: Collection of dissimilar data
 
 ## Local Classes in C++
 A class declared inside a function, (loacl to that function)
@@ -44,7 +43,7 @@ A class declared inside a function, (loacl to that function)
 
 ## Inline Function
 it is a request not command, code is inserted to the line where it is called.
-```
+```cpp
 inline int example()
        {
          //code
@@ -54,7 +53,7 @@ inline int example()
 ### Static Variable 
 1. **In Function:** Avariable declared as static, space for it get allocated for the life time of the program, even if the function is called multiple time the space for it is allocated once.  
 2. **In Class:** initialised outside and declared inside the class, it belongs class as whole and not just obj.
-```
+```cpp
 class Account
 {
   private:
