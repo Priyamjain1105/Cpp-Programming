@@ -2,6 +2,8 @@
 
 ## 1. Array
 
+[1. basic code](array/basic.cpp)
+
 2. Binary Search
 3. String
 4. Linked List
