@@ -2,7 +2,7 @@
 
 ## 1. Array
 
-[1. basic code](array/basic.cpp)
+[1. basic code](Array/basic.cpp)
 
 2. Binary Search
 3. String
