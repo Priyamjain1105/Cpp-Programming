@@ -1,4 +1,7 @@
-1. Array              <-
+# Data Structure and Algorithms
+
+## 1. Array
+
 2. Binary Search
 3. String
 4. Linked List
