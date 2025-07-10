@@ -12,5 +12,24 @@
   - `git branch`
 5. Link to your remote GitHub repo
   - `git remote add origin <repo-url>`
-6. 
 
+### For every new Visit
+1. Open your project folder in VS Code.
+2. Check if your folder is connected to a GitHub repo:
+   ```bash
+   git remote -v
+   ```
+    - If you see your GitHub URL, you’re connected.
+    - If not, connect using
+    - ```If you see your GitHub URL, you’re connected.
+        If not, connect using
+        ```
+  3. Check you current brach `git branch`
+  4. Pull the latest changes `git pull`
+  5. Make your code changes
+  6. Stage commit and push your changes
+   ```  
+        git add .
+        git commit -m "Your message"
+        git push
+   ```
