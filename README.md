@@ -21,9 +21,9 @@
    ```
     - If you see your GitHub URL, you’re connected.
     - If not, connect using
-    - ```If you see your GitHub URL, you’re connected.
-        If not, connect using
-        ```
+    - ```bash
+        git remote add origin <repo-url>
+      ```
   3. Check you current brach `git branch`
   4. Pull the latest changes `git pull`
   5. Make your code changes
