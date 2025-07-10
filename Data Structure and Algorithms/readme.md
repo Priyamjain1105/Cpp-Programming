@@ -1,13 +1,17 @@
 # Data Structure and Algorithms
 
 ## 1. Array
+
   - 1. [basic code](array/basic.cpp)
 
-2. Binary Search
-3. String
-4. Linked List
-5. Stacks and Queues
-6. Binary tree
-7. binary search tree
-8. graphs
-9. dynamic programming
+
+
+
+1. Binary Search
+2. String
+3. Linked List
+4. Stacks and Queues
+5. Binary tree
+6. binary search tree
+7. graphs
+8. dynamic programming
