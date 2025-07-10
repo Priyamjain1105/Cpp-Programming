@@ -28,7 +28,7 @@
   4. Pull the latest changes `git pull`
   5. Make your code changes
   6. Stage commit and push your changes
-   ```  
+   - ```bash 
         git add .
         git commit -m "Your message"
         git push
