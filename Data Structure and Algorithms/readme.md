@@ -1,17 +1,21 @@
 # Data Structure and Algorithms
 
-## 1. Array
+## Array
 
-  - 1. [basic code](array/basic.cpp)
+  - 1. [largest no in the array](Array/largestNumber.cpp)
+
+## Linked List
+
+## Stacks and Queues
+   - 1. [Infixtopostfix](Stacks%20and%20Queues/Prefix,%20Postfix%20and#20Infix/infixtopostfix.cpp)
 
 
 
 
-1. Binary Search
-2. String
-3. Linked List
-4. Stacks and Queues
-5. Binary tree
-6. binary search tree
-7. graphs
-8. dynamic programming
+
+Binary Search
+String
+Binary tree
+binary search tree
+graphs
+dynamic programming
