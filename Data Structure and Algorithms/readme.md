@@ -8,7 +8,7 @@
 
 ## Stacks and Queues
    - 1. [Infixtopostfix](/Stacks%20and%20Queues/Prefix,%20Postfix%20and#20Infix/infixtopostfix.cpp)
-     2. [path](Data%20Structure%20and%20Algorithms/Stacks%20and%20Queues/Prefix%2C%20Postfix%20and%20Infix/infixtopostfix.cpp)
+     2. [path](https://github.com/Priyamjain1105/Cpp-Programming/blob/main/Data%20Structure%20and%20Algorithms/Stacks%20and%20Queues/Prefix%2C%20Postfix%20and%20Infix/infixtopostfix.cpp)
 
 
 
