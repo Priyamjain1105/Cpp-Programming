@@ -2,12 +2,12 @@
 
 ## Array
 
-  - 1. [largest no in the array](Array/largestNumber.cpp)
+  1. [largest no in the array](Array/largestNumber.cpp)
 
 ## Linked List
 
 ## Stacks and Queues
-   - 1. [Infixtopostfix](Stacks%20and%20Queues/Prefix%2C%20Postfix%20and%20Infix/infixtopostfix.cpp)
+  1. [Infixtopostfix](Stacks%20and%20Queues/Prefix%2C%20Postfix%20and%20Infix/infixtopostfix.cpp)
     
 
 
