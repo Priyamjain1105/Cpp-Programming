@@ -15,7 +15,7 @@
 
 ## Stacks and Queues
   1. [Infixtopostfix](DSA/StackAndQueue/IPP/infixtopostfix.cpp)
-    
+  2. [Infixtoprefix](DSA/StackAndQueue/IPP/infixtoprefix.cpp)
 
 
 
