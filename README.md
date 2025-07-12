@@ -1,7 +1,7 @@
 # Data Structure and Algorithms
 
 ## Prerequisite
-   - [Basics of Recursion](Prerequisite/Basic_Recursion.md)
+   - [Basics of Recursion](prerequisite/Basic_Recursion.md)
    - [Basic Sorting Techniques](Prerequisite/Basic_Sorting_Techniques.md)
    - [Basics of Hashing](Prerequisite/Hashing.md)
    - [Basics of Space and Time Complexity](Prerequisite/Time_and_Space_Complexity.md)
