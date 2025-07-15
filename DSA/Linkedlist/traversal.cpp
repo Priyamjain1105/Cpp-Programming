@@ -2,6 +2,13 @@
 #include <vector>
 using namespace std;
 
+/* Uses the following concepts
+   1. Class and oops
+      - Constructors
+      -
+   2. Pointers
+
+*/
 class Node
 {
 public:
@@ -13,7 +20,8 @@ public:
 
 Node *arr2LL(vector<int> arr)
 {
-    Node *head = new Node(arr[0]);
+    Node *head = new Node(arr[0]); // here head is the pointer to the node object/
+                                   // Stores the address of the newly created node
     Node *perv = head;
     for (int i = 1; i < arr.size() + 1; i++)
     {
