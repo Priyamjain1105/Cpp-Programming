@@ -12,10 +12,12 @@
   1. [largest no in the array](DSA/Array/largestNumber.cpp)
 
 ## Linked List
+  1. [Traversal in a LinkedList](DSA/Linkedlist/traversal.cpp)
 
 ## Stacks and Queues
   1. [Infixtopostfix](DSA/StackAndQueue/IPP/infixtopostfix.cpp)
   2. [Infixtoprefix](DSA/StackAndQueue/IPP/infixtoprefix.cpp)
+  3. 
 
 
 
