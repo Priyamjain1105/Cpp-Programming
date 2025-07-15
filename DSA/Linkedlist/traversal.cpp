@@ -7,6 +7,7 @@ using namespace std;
       - Constructors
       -
    2. Pointers
+      - The -> operator in C++ is used to access members of an object through a pointer.
 
 */
 class Node
