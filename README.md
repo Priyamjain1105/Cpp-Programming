@@ -1,12 +1,16 @@
 # Data Structure and Algorithms
   - [RoadMap](DSA/Roadmap_and_Planning/roadmap.pdf)
-- 
+
 ## Prerequisite
    - [Basics of Recursion](prerequisite/Basic_Recursion.md)
    - [Basic Sorting Techniques](prerequisite/Basic_Sorting_Techniques.md)
    - [Basics of Hashing](prerequisite/Hashing.md)
    - [Basics of Space and Time Complexity](prerequisite/Time_and_Space_Complexity.md)
 
+## Sorting
+   1. [Selection Sort](DSA/Sorting/selection.cpp)
+   2. [Bubble Sort](DSA/Sorting/bubble.cpp)
+   3. [Insertion Sort](DSA/Sorting/insertion.cpp)
 
 ## Array
 
