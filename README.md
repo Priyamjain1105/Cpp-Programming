@@ -11,6 +11,7 @@
    1. [Selection Sort](DSA/Sorting/selection.cpp)
    2. [Bubble Sort](DSA/Sorting/bubble.cpp)
    3. [Insertion Sort](DSA/Sorting/insertion.cpp)
+   4. [Merge Sort](DSA/Sorting/mergesort.cpp)
 
 ## Array
 
