@@ -1,5 +1,5 @@
 # List
-Similar to [Vector](Standard_template_library/Containers/Vectors.md), difference is it provide front operations.  
+Similar to [Vector](Vectors.md), difference is it provide front operations.  
 
 ## Defination
 `list<int> ls;`
