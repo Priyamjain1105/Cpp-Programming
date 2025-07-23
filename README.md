@@ -13,6 +13,7 @@
    3. [Insertion Sort](DSA/Sorting/insertion.cpp)
    4. [Merge Sort](DSA/Sorting/mergesort.cpp)
    5. [Quick Sort](DSA/Sorting/quicksort.cpp)
+   
 
 ## Array
 
@@ -20,6 +21,7 @@
 
 ## Linked List
   1. [Traversal in a LinkedList](DSA/Linkedlist/traversal.cpp)
+  2. [Reverse a linkedlist (iterative)](DSA/Linkedlist/reverseLL1.cpp)
 
 ## Stacks and Queues
   1. [Infixtopostfix](DSA/StackAndQueue/IPP/infixtopostfix.cpp)
