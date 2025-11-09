@@ -24,7 +24,7 @@
     |:-:|:- |:- | :- |:- |:- |
     |h  |e  |l  |l   |o  |\0 |
 
- - #### Input and output in char Array
+ - ### Input and output in char Array
    - If there is no initialisation we just have to assign some size to the char array
     ```cpp
     int main (){
