@@ -24,9 +24,9 @@ Node *arr2LL(vector<int> arr)
     return head;
 }
 
-void traversal(Node* head){
-    Node* temp = head;
-    
+void traversal(Node *head)
+{
+    Node *temp = head;
 }
 
 void insert_node(Node *head, int index, int data)

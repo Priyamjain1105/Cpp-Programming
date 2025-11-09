@@ -62,6 +62,5 @@ int main()
     printLL(head);
     Node *newhead = reverseLL(head);
     cout << endl;
-
     printLL(newhead);
 }

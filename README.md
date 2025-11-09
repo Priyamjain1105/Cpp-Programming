@@ -1,6 +1,7 @@
 # Data Structure and Algorithms
   - [RoadMap](DSA/Roadmap_and_Planning/roadmap.pdf)
 
+*Don't jump directly to the solution, try it out yourself first.*
 
 ## Prerequisite
    - [Basics of Recursion](prerequisite/Basic_Recursion.md)
