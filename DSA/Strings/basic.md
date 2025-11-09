@@ -13,12 +13,12 @@
 - here the character array will convert into the single string through the `\0`, which is an special null character
 
 - We can also assign the strings directly to the char array
- ```cpp
-    char str[] = "hello"
-    cout << str << endl; //constant pointer
-    cout << strlen(str) << endl; //prints the string length
- ```
-
+    ```cpp
+        char str[] = "hello"
+        cout << str << endl; //constant pointer
+        cout << strlen(str) << endl; //prints the string length
+    ```
+    - |h|e|l|l|o|\0|
 ---
 - `strlen(str)` is used to measure the length of the string
 
