@@ -76,11 +76,32 @@
      
     ```
     
-
-
-
-
-
 ---
 - `strlen(str)` is used to measure the length of the string
-
+---
+## Strings in C++
+- Above the Char Array there is the advanced version which we call string in c++, cause there are lot of limitations in char that are overcomed through string very easily 
+- C++ STL provides us String template ( a class of which we can create the obj)
+- Here string are Dynamic in nature cause they can be resized during the runtime, which is not possible in the char array
+    ```cpp
+    string str;
+    str = "Apna College";
+    cout << str << endl;
+    ```
+- Here string also supports lots of operators
+  Concatenating
+  ```cpp
+  string str1;
+  string str2;
+  string str3 = str1+str2; //concatenation
+  cout << str3 << endl;
+  ```
+  ---
+  Checking the equality
+  ```cpp
+  string str1 = "hello";
+  string str2 = "hello";
+  cout << (str1 == str2) << endl;
+  ```
+  Output: `1`
+it compares lexigraphically both the strings
