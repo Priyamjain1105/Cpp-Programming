@@ -89,7 +89,8 @@
     cout << str << endl;
     ```
 - Here string also supports lots of operators
-  Concatenating
+  
+  **Concatenating**
   ```cpp
   string str1;
   string str2;
@@ -97,11 +98,25 @@
   cout << str3 << endl;
   ```
   ---
-  Checking the equality
+
+  **Checking the equality**
+
   ```cpp
   string str1 = "hello";
   string str2 = "hello";
   cout << (str1 == str2) << endl;
   ```
   Output: `1`
-it compares lexigraphically both the strings
+
+  ---
+   **it compares lexigraphically both the strings**
+    ```cpp
+    cout<< ( str1 < str2) <<  endl;
+    ```
+
+   ---
+    **To measure the length we have**
+    ```cpp
+    cout<< str1.length() << endl;
+    ```
+
