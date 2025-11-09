@@ -88,9 +88,9 @@
     str = "Apna College";
     cout << str << endl;
     ```
-- Here string also supports lots of operators
+Here string also supports lots of operators
   
-  **Concatenating**
+- **Concatenating**
   ```cpp
   string str1;
   string str2;
@@ -99,7 +99,7 @@
   ```
   ---
 
-  **Checking the equality**
+- **Checking the equality**
 
   ```cpp
   string str1 = "hello";
@@ -109,14 +109,23 @@
   Output: `1`
 
   ---
-   **it compares lexigraphically both the strings**
+- **it compares lexigraphically both the strings**
     ```cpp
     cout<< ( str1 < str2) <<  endl;
     ```
 
    ---
-    **To measure the length we have**
+- **To measure the length we have**
     ```cpp
     cout<< str1.length() << endl;
     ```
+    ---
+-  **Taking the input of the string**
+    ```cpp
+    string str;
+    getline(cin, str);
+    cout<< "Output:" << str << endl;
+    return 0;
+    ```
+
 
